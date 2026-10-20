@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-label="05 A year of building."><defs>
+<linearGradient id="csil" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#D4D4DB"/><stop offset="1" stop-color="#9A9AA3"/></linearGradient>
+<linearGradient id="cedge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8E8EE" stop-opacity=".75"/><stop offset=".5" stop-color="#5A5A62" stop-opacity=".35"/><stop offset="1" stop-color="#C4C4CC" stop-opacity=".6"/></linearGradient>
+<linearGradient id="cline" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="1140" y2="0"><stop offset="0" stop-color="#C4C4CC"/><stop offset=".6" stop-color="#5A5A62"/><stop offset="1" stop-color="#5A5A62" stop-opacity="0"/></linearGradient>
+<linearGradient id="csheen" gradientUnits="userSpaceOnUse" x1="-260" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#9A9AA3"/><stop offset=".5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#9A9AA3"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="0 0;1500 0;1500 0" keyTimes="0;.45;1" dur="7s" repeatCount="indefinite"/></linearGradient></defs><rect width="1200" height="100" fill="none"/>
+<text x="62" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="4" fill="#8B8B93">05  /  COMMIT LOG</text>
+<text x="60" y="86" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="40" font-weight="700" fill="url(#csil)">A year of building.</text>
+<text x="60" y="86" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', serif" font-size="40" font-weight="700" fill="url(#csheen)" opacity=".8">A year of building.</text>
+<rect x="60" y="96" width="1080" height="1.5" fill="url(#cline)"/></svg>
